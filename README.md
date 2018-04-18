@@ -30,13 +30,13 @@ As mentioned above, I am expanding on a work I started near the beginning of the
 
 ### Technical Details
 //   
-Here you should give an overview of the technical aspects of your project:
+An overview of the technical aspects of A Day in De Stijl:
 * p5.js
 * Hosting Platform: Github pages
 * I will be using Visual Studio Code to write and test code. I've been using this platform for the whole semester and it works well with the work I'm doing. 
 //
 
-You can include code snippets here:
+Here is a snippet of my code:
 
 ```js
 function setup(){
@@ -60,4 +60,4 @@ function draw(){
   }
 ```
 
-Link to your project's full code in this repository:  [https://sorenchargois.github.io/ADayinDeStijl/](https://sorenchargois.github.io/ADayinDeStijl/)
+This is the link to my project's full code repository:  [https://sorenchargois.github.io/ADayinDeStijl/](https://sorenchargois.github.io/ADayinDeStijl/)
